@@ -1,1 +1,1 @@
-# lab_devops-foundations-implement-semantic-versioning-principles
+# DevOps Foundations Lab - Semantic Versioning Principles
